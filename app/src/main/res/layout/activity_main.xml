@@ -24,10 +24,9 @@
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:title="KİMETSU NO YAİBA"
             app:expandedTitleGravity="center|bottom"
             app:titleEnabled="true"
-            android:theme="@style/Theme.Coordinatorr">
+            android:theme="@style/TitleColor">
 
             <ImageView
                 android:id="@+id/toolbarImage"
